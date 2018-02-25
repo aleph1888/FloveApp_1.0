@@ -20,27 +20,24 @@ Flove/tree [*].
 Funcional
 ---------------------
 
-```humano
-
 Hola, por si me suena la flauta... el reto simple sería:
 
 Aplicar [tu bot](http://aleph1888.github.io/D3js_samples/) para que al clickar 
 cada elemento de la tabla wow.wiki.yt/en/life:
 
-- [ ] Se muestre su definicion, que se forma automaticamente 
+- [ ] Se muestre su definición, que se forma automáticamente 
 en base a sus semanticas vecinas. por ejemplo:  *Want is the expression of passion,
  comes from feel, goes to love, has zeal as shade, is first child of guess, is parent
- of communication and grandparent of being*
-- [ ] molaría que cada palabreja en la definición tambien tuviera su link a su propia definición.
-- [ ] molaría tb que se visualizara algo visual y gradual (zoomeado?) el ir desde la tabla al concepto y back.
-- [ ] el utlimo molaría sería que los elementos de la tabla fueran expansibles-colapsibles.
+ of communication and grandparent of being*.
+- [ ] Molaría que cada palabreja en la definición tambien tuviera su link a su propia definición.
+- [ ] Molaría tb que se visualizara algo visual y gradual (zoomeado?) el ir desde la tabla al concepto y back.
+- [ ] El útlimo molaría sería que los elementos de la tabla fueran expansibles-colapsibles.
 
 Ya no te digo mas molaría, que si no te asusto ;)
 
-Si no tu y sabes de alguien que pudiera interesarle dime, tampoco kiero pagar mas de
- 10$/hora y prefiero trocar con mis riquezas materiales tb, pero esto ya es jeje
+Si no tú y sabes de alguien que pudiera interesarle dime, tampoco kiero pagar más de
+ 10$/hora y prefiero trocar con mis riquezas materiales tb, pero esto ya es jeje.
 
-```
 
 Técnica
 ------------------------

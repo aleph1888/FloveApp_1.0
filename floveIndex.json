@@ -1,0 +1,512 @@
+{
+   "1": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Universal",
+         "FIELD4": "length",
+         "FIELD5": "motion",
+         "FIELD6": "flow",
+         "FIELD7": "flove",
+         "Life": "_",
+         "FIELD9": "create",
+         "FIELD10": "ether",
+         "FIELD11": "god",
+         "FIELD12": "end",
+         "FIELD13": ""
+      }
+   ],
+   "2": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Natural",
+         "FIELD4": "inertia",
+         "FIELD5": "light",
+         "FIELD6": "energy",
+         "FIELD7": "real",
+         "Life": "_",
+         "FIELD9": "form",
+         "FIELD10": "entropy",
+         "FIELD11": "dark",
+         "FIELD12": "inflation",
+         "FIELD13": ""
+      }
+   ],
+   "3": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Biological",
+         "FIELD4": "gene",
+         "FIELD5": "protein",
+         "FIELD6": "aminoacid",
+         "FIELD7": "cell *",
+         "Life": "_",
+         "FIELD9": "memesis",
+         "FIELD10": "body",
+         "FIELD11": "weak",
+         "FIELD12": "death",
+         "FIELD13": ""
+      }
+   ],
+   "": [
+      {
+         "FIELD2": "",
+         "FIELD3": "",
+         "FIELD4": "",
+         "FIELD5": "Bright>>>",
+         "FIELD6": "",
+         "FIELD7": "",
+         "Life": "Flove",
+         "FIELD9": "",
+         "FIELD10": "",
+         "FIELD11": "Shade<<<",
+         "FIELD12": "",
+         "FIELD13": ""
+      },
+      {
+         "FIELD2": "",
+         "FIELD3": "",
+         "FIELD4": "Source",
+         "FIELD5": "Evolve",
+         "FIELD6": "Express",
+         "FIELD7": "Lovely",
+         "Life": "_",
+         "FIELD9": "Far",
+         "FIELD10": "Excess",
+         "FIELD11": "Twist",
+         "FIELD12": "Lack",
+         "FIELD13": ""
+      }
+   ],
+   "1.1": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Vital",
+         "FIELD4": "infinite",
+         "FIELD5": "function",
+         "FIELD6": "coherence",
+         "FIELD7": "full",
+         "Life": "_",
+         "FIELD9": "destiny",
+         "FIELD10": "limbo",
+         "FIELD11": "alert",
+         "FIELD12": "finite",
+         "FIELD13": ""
+      }
+   ],
+   "1.2": [
+      {
+         "FIELD2": "`",
+         "FIELD3": "Intentional",
+         "FIELD4": "focus",
+         "FIELD5": "enigma",
+         "FIELD6": "flirt",
+         "FIELD7": "alive",
+         "Life": "_",
+         "FIELD9": "diversity",
+         "FIELD10": "will",
+         "FIELD11": "karma",
+         "FIELD12": "chaos",
+         "FIELD13": ""
+      }
+   ],
+   "1.3": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Architectural",
+         "FIELD4": "reciprocity",
+         "FIELD5": "scalar",
+         "FIELD6": "superposition",
+         "FIELD7": "supersimmetry",
+         "Life": "_",
+         "FIELD9": "vortex",
+         "FIELD10": "omniverse",
+         "FIELD11": "multiverse",
+         "FIELD12": "singularity",
+         "FIELD13": ""
+      }
+   ],
+   "2.1": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Positional",
+         "FIELD4": "radial",
+         "FIELD5": "hiperbolic",
+         "FIELD6": "torus",
+         "FIELD7": "holon",
+         "Life": "_",
+         "FIELD9": "fractal",
+         "FIELD10": "space",
+         "FIELD11": "expansion",
+         "FIELD12": "void",
+         "FIELD13": ""
+      }
+   ],
+   "2.2": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Programational",
+         "FIELD4": "quantum",
+         "FIELD5": "entanglement",
+         "FIELD6": "particle",
+         "FIELD7": "mesh",
+         "Life": "_",
+         "FIELD9": "eternal",
+         "FIELD10": "time",
+         "FIELD11": "dimension",
+         "FIELD12": "hole",
+         "FIELD13": ""
+      }
+   ],
+   "2.3": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Musical",
+         "FIELD4": "sequence",
+         "FIELD5": "frequency",
+         "FIELD6": "vibration",
+         "FIELD7": "resonance",
+         "Life": "_",
+         "FIELD9": "wave",
+         "FIELD10": "mass",
+         "FIELD11": "interference",
+         "FIELD12": "collapse",
+         "FIELD13": ""
+      }
+   ],
+   "3.1": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Animal",
+         "FIELD4": "nerve",
+         "FIELD5": "neuron",
+         "FIELD6": "poiesis",
+         "FIELD7": "human *",
+         "Life": "_",
+         "FIELD9": "soul",
+         "FIELD10": "leap",
+         "FIELD11": "pain",
+         "FIELD12": "suffer",
+         "FIELD13": ""
+      }
+   ],
+   "3.1.1": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Genetical",
+         "FIELD4": "RNA",
+         "FIELD5": "DNA",
+         "FIELD6": "mithocondria",
+         "FIELD7": "genome",
+         "Life": "_",
+         "FIELD9": "unique",
+         "FIELD10": "epigenetics",
+         "FIELD11": "silencer",
+         "FIELD12": "ill",
+         "FIELD13": ""
+      }
+   ],
+   "3.1.2": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Sensual",
+         "FIELD4": "visual",
+         "FIELD5": "touch",
+         "FIELD6": "position",
+         "FIELD7": "interact",
+         "Life": "_",
+         "FIELD9": "movement",
+         "FIELD10": "peripheral",
+         "FIELD11": "ignore",
+         "FIELD12": "miss",
+         "FIELD13": ""
+      }
+   ],
+   "3.1.3": [
+      {
+         "FIELD2": "",
+         "FIELD3": "Sexual",
+         "FIELD4": "embodiment",
+         "FIELD5": "agency",
+         "FIELD6": "presence",
+         "FIELD7": "adapt",
+         "Life": "_",
+         "FIELD9": "orgasm",
+         "FIELD10": "alchemy",
+         "FIELD11": "freewill",
+         "FIELD12": "age",
+         "FIELD13": ""
+      }
+   ],
+   "3.2": [
+      {
+         "FIELD2": "X",
+         "FIELD3": "Mental",
+         "FIELD4": "sense",
+         "FIELD5": "abstract",
+         "FIELD6": "analogy",
+         "FIELD7": "guess *",
+         "Life": "_",
+         "FIELD9": "imagine *",
+         "FIELD10": "overflow",
+         "FIELD11": "disflow",
+         "FIELD12": "misflow",
+         "FIELD13": ""
+      }
+   ],
+   "3.2.1": [
+      {
+         "FIELD2": "x",
+         "FIELD3": "Passional",
+         "FIELD4": "need",
+         "FIELD5": "feel",
+         "FIELD6": "want",
+         "FIELD7": "love",
+         "Life": "_",
+         "FIELD9": "wish",
+         "FIELD10": "zeal",
+         "FIELD11": "rage",
+         "FIELD12": "fear",
+         "FIELD13": ""
+      }
+   ],
+   "3.2.2": [
+      {
+         "FIELD2": "f",
+         "FIELD3": "Cultural",
+         "FIELD4": "play",
+         "FIELD5": "lexicon",
+         "FIELD6": "communication",
+         "FIELD7": "joy",
+         "Life": "_",
+         "FIELD9": "fun",
+         "FIELD10": "flaw",
+         "FIELD11": "sorrow",
+         "FIELD12": "bore",
+         "FIELD13": ""
+      }
+   ],
+   "3.2.3": [
+      {
+         "FIELD2": "m",
+         "FIELD3": "Political",
+         "FIELD4": "idea",
+         "FIELD5": "balance",
+         "FIELD6": "code",
+         "FIELD7": "wise",
+         "Life": "_",
+         "FIELD9": "care",
+         "FIELD10": "core",
+         "FIELD11": "worry",
+         "FIELD12": "fight",
+         "FIELD13": ""
+      }
+   ],
+   "3.3": [
+      {
+         "FIELD2": "F",
+         "FIELD3": "Rational",
+         "FIELD4": "beauty",
+         "FIELD5": "moral",
+         "FIELD6": "consciousness",
+         "FIELD7": "view *",
+         "Life": "_",
+         "FIELD9": "faith *",
+         "FIELD10": "mania",
+         "FIELD11": "calculus",
+         "FIELD12": "fail",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.1": [
+      {
+         "FIELD2": "xx",
+         "FIELD3": "Personal",
+         "FIELD4": "self",
+         "FIELD5": "belief",
+         "FIELD6": "accept",
+         "FIELD7": "be *",
+         "Life": "_",
+         "FIELD9": "true *",
+         "FIELD10": "rate",
+         "FIELD11": "deny",
+         "FIELD12": "fake",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.2": [
+      {
+         "FIELD2": "xf",
+         "FIELD3": "Local",
+         "FIELD4": "empathy",
+         "FIELD5": "synchrony",
+         "FIELD6": "simbiosis",
+         "FIELD7": "trustful *",
+         "Life": "_",
+         "FIELD9": "peace",
+         "FIELD10": "perturb",
+         "FIELD11": "rival",
+         "FIELD12": "hate",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3": [
+      {
+         "FIELD2": "xm",
+         "FIELD3": "Social",
+         "FIELD4": "relate",
+         "FIELD5": "network",
+         "FIELD6": "harmony",
+         "FIELD7": "free *",
+         "Life": "_",
+         "FIELD9": "fair",
+         "FIELD10": "terms",
+         "FIELD11": "imped",
+         "FIELD12": "force",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.1": [
+      {
+         "FIELD2": "xxx",
+         "FIELD3": "Material",
+         "FIELD4": "resource",
+         "FIELD5": "allocate",
+         "FIELD6": "stock",
+         "FIELD7": "eco *",
+         "Life": "_",
+         "FIELD9": "thing",
+         "FIELD10": "use",
+         "FIELD11": "posses",
+         "FIELD12": "property",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.2": [
+      {
+         "FIELD2": "xxf",
+         "FIELD3": "Mechanical",
+         "FIELD4": "merge",
+         "FIELD5": "collaborate",
+         "FIELD6": "produce",
+         "FIELD7": "craft",
+         "Life": "_",
+         "FIELD9": "bring",
+         "FIELD10": "create",
+         "FIELD11": "work",
+         "FIELD12": "destroy",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.3": [
+      {
+         "FIELD2": "xxm",
+         "FIELD3": "Deal",
+         "FIELD4": "estate",
+         "FIELD5": "invite",
+         "FIELD6": "convey",
+         "FIELD7": "offer *",
+         "Life": "_",
+         "FIELD9": "licence *",
+         "FIELD10": "economy",
+         "FIELD11": "market",
+         "FIELD12": "fiat",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.3.1": [
+      {
+         "FIELD2": "xh",
+         "FIELD3": "Gift",
+         "FIELD4": "give",
+         "FIELD5": "bestow",
+         "FIELD6": "contribute",
+         "FIELD7": "freed *",
+         "Life": "_",
+         "FIELD9": "favor",
+         "FIELD10": "donate",
+         "FIELD11": "expect",
+         "FIELD12": "loss",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.3.2": [
+      {
+         "FIELD2": "fh",
+         "FIELD3": "Lend",
+         "FIELD4": "cost",
+         "FIELD5": "let",
+         "FIELD6": "share",
+         "FIELD7": "shareful *",
+         "Life": "_",
+         "FIELD9": "partake *",
+         "FIELD10": "lease",
+         "FIELD11": "rent",
+         "FIELD12": "usury",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.3.3": [
+      {
+         "FIELD2": "mh",
+         "FIELD3": "Exchange",
+         "FIELD4": "price",
+         "FIELD5": "par",
+         "FIELD6": "benefit",
+         "FIELD7": "swap *",
+         "Life": "_",
+         "FIELD9": "credit",
+         "FIELD10": "money",
+         "FIELD11": "lucre",
+         "FIELD12": "steal",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.3.3.1": [
+      {
+         "FIELD2": "xg",
+         "FIELD3": "Negotiation",
+         "FIELD4": "claim",
+         "FIELD5": "bundle",
+         "FIELD6": "bid",
+         "FIELD7": "tacit",
+         "Life": "_",
+         "FIELD9": "cheap",
+         "FIELD10": "liberty",
+         "FIELD11": "lobby",
+         "FIELD12": "rigid",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.3.3.2": [
+      {
+         "FIELD2": "fg",
+         "FIELD3": "Channel",
+         "FIELD4": "deed",
+         "FIELD5": "bond",
+         "FIELD6": "brand",
+         "FIELD7": "ori",
+         "Life": "_",
+         "FIELD9": "botori",
+         "FIELD10": "currency",
+         "FIELD11": "debt",
+         "FIELD12": "bank",
+         "FIELD13": ""
+      }
+   ],
+   "3.3.3.3.3.3": [
+      {
+         "FIELD2": "mg",
+         "FIELD3": "Transfer",
+         "FIELD4": "sell",
+         "FIELD5": "pay",
+         "FIELD6": "buy",
+         "FIELD7": "direct *",
+         "Life": "_",
+         "FIELD9": "flevy",
+         "FIELD10": "fee",
+         "FIELD11": "commerce",
+         "FIELD12": "business",
+         "FIELD13": ""
+      }
+   ]
+}
