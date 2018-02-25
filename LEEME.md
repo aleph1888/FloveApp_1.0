@@ -14,6 +14,9 @@ del siguiente árbol:
 
 Flove/tree [*].
 
+![flove abstract](what-is-flove.png)
+
+
 Funcional
 ---------------------
 
@@ -36,6 +39,8 @@ Ya no te digo mas molaría, que si no te asusto ;)
 
 Si no tu y sabes de alguien que pudiera interesarle dime, tampoco kiero pagar mas de
  10$/hora y prefiero trocar con mis riquezas materiales tb, pero esto ya es jeje
+
+```
 
 Técnica
 ------------------------
