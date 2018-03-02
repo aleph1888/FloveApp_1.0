@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+    <!-- Using conversational variables (i.e., SET and GET) -->
+    <category>
+        <pattern>ACUERDATE DE *</pattern>
+        <template>
+            <think><set name="name"><star /></set></think>
+            Me acordaré de eso.
+        </template>
+    </category>
+
+    <category>
+        <pattern>DE QUE TE ACUERDAS *</pattern>
+        <template>
+            Me acuerdo de: <get name="name" />.
+        </template>
+    </category>
+
+</aiml>

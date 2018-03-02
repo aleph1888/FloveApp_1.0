@@ -1,0 +1,12 @@
+{
+  "name": "aiml-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "aiml-high": "*",
+    "readline-sync": "*"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
+}
