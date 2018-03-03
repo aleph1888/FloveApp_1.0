@@ -33,7 +33,7 @@ Hola, humano. ¿Quieres decir algo? Soy un bot eco. Repito lo que dices...
 aleph@oxs-Mac-mini:~/Desktop/redux/bot-jerusalem$
 ```
 
-# Feature 2  
+# Feature 2  
 
 Do the "tell a story thing". By triggering [./bicho.sh](bicho.sh) and 
 [./yo.sh](yo.sh) from an story notebook.
