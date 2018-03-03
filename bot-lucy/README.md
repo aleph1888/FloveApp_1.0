@@ -20,4 +20,4 @@ Sample
 ----------
 
 ![Run 0](bot-lucy-0.png)
-![Run 1](bot-lucy-1.png)
+![Run 1](bot-lucy1.png)
